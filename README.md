@@ -45,3 +45,9 @@ in the middleware.py file.
 to:
 
 ```from django.urls import reverse```
+
+
+# NGINX SETUP
+
+- https://www.digitalocean.com/community/questions/domain-com-works-domain-com-returns-bad-request-and-www-domain-com-does-not-connect
+- https://www.digitalocean.com/community/questions/how-to-assign-a-subdomain-to-my-django-project-on-digital-ocean-droplet
